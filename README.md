@@ -1,2 +1,4 @@
 # homework_infopuls
-Test project for homework_infopuls
+New project discription for homework_infopuls
+
+пробный тестовый

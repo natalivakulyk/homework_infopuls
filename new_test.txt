@@ -1,6 +1,7 @@
-import this
+import this, math
 
 print('Hello Natali and World')
+print('Hello Cat')
 
 exit()
 

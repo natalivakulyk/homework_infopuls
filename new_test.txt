@@ -1,6 +1,5 @@
-import this
+import this, math
 
 print('Hello Natali and World')
-
-exit()
+print('Hello Cat')
 

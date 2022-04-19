@@ -1,4 +1,4 @@
-import this, math
+Start
 
 print('Hello Natali and World')
 print('Hello Cat')
